@@ -1,0 +1,29 @@
+{
+  "name": "force-sync",
+  "version": "0.0.0",
+  "description": "Simple flow control for functions with callbacks",
+  "main": "force-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramtinsoltani/force-sync.git"
+  },
+  "keywords": [
+    "flow",
+    "control",
+    "flowcontrol",
+    "callback",
+    "javascript",
+    "js",
+    "cb",
+    "promise"
+  ],
+  "author": "Ramtin Soltani <ramtinsoltani93@gmail.com> (http://ramt.in)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramtinsoltani/force-sync/issues"
+  },
+  "homepage": "https://github.com/ramtinsoltani/force-sync#readme"
+}
